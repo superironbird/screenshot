@@ -1,0 +1,37 @@
+<autoupdate schema-version="2.1">
+  <system>
+    <metrics>
+      <uid />
+      <lut />
+      <metricsfailurenotificationurl>https://autoupdate.geo.opera.com/api/failedmetrics/?uuid=lut=</metricsfailurenotificationurl>
+    </metrics>
+  </system>
+  <product>
+    <files>
+      <file>
+        <name>Opera_58.0.3135.119_Autoupdate.exe</name>
+        <version>58.0.3135.119</version>
+        <download>
+          <primary checksum="0A8CE026714E03E72C619307BD598ADD5F9B639CFD91437CB8D9C847BF9F6894" filename="Opera_58.0.3135.119_Autoupdate.exe" size="2616320" type="full">http://192.168.1.99/Opera_58.0.3135.119_Autoupdate.exe</primary>
+          <fallback checksum="0A8CE026714E03E72C619307BD598ADD5F9B639CFD91437CB8D9C847BF9F6894" filename="Opera_58.0.3135.119_Autoupdate.exe" size="2616320" type="full">http://192.168.1.99/Opera_58.0.3135.119_Autoupdate.exe</fallback>
+        </download>
+        <manifest>
+          <meta name="branch" type="Full" />
+          <meta name="information" url="http://help.opera.com/updateinfo/?bnum=3135opsys=Windowsversion=58.0.3135.118level=Fulledition=" />
+          <meta delimiter="," list="" type="languages" />
+        </manifest>
+      </file>
+    </files>
+  </product>
+  <extraapplications>
+    <files>
+      <file>
+        <name>assistant</name>
+        <version>58.0.3135.119</version>
+        <download>
+          <primary checksum="0A8CE026714E03E72C619307BD598ADD5F9B639CFD91437CB8D9C847BF9F6894" filename="Assistant_58.0.3135.119_Setup.exe" size="2616320" type="full">http://192.168.1.99/Assistant_58.0.3135.119_Setup.exe</primary>
+        </download>
+      </file>
+    </files>
+  </extraapplications>
+</autoupdate>
