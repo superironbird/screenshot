@@ -1,0 +1,8 @@
+http://s.360safe.com/safei18n/update_v3.htm?id=TASK_UPDATE_MODULE_MANUAL&edition=TS&pt=1&mid=ab49b7dcf7f01169aa7dfd9f850737e5&ver=10.6.0.1038&lan=en&os=6.1-x86&ch=101&sch=0
+http://iup.360safe.com/iv3/pc/360safe/isafeup_lib.cab?mid=ab49b7dcf7f01169aa7dfd9f850737e5&ver=10.6.0.1038&lan=en&os=6.1-x86&ch=101&ue=1&auto=0
+
+http://s.360safe.com/safei18n/update_v3.htm?id=TASK_UPDATE_AVIRA_INCREMENTAL_MANUAL&edition=TS&pt=1&mid=ab49b7dcf7f01169aa7dfd9f850737e5&ver=10.6.0.1038&lan=en&os=6.1-x86&ch=101&sch=0
+http://sdup.update.360safe.com/lib/safeup_wl.cab?mid=ab49b7dcf7f01169aa7dfd9f850737e5&ver=10.6.0.1038&lan=en&os=6.1-x86&ch=101&ue=1&auto=0
+http://s.360safe.com/safei18n/update_v3.htm?id=TASK_UPDATE_WLIST_MANUAL&edition=TS&pt=1&mid=ab49b7dcf7f01169aa7dfd9f850737e5&ver=10.6.0.1038&lan=en&os=6.1-x86&ch=101&sch=0
+http://s.360safe.com/safei18n/update_v3.htm?id=TASK_UPDATE_PACKAGE_MANUAL&edition=TS&pt=1&mid=ab49b7dcf7f01169aa7dfd9f850737e5&ver=10.6.0.1038&lan=en&os=6.1-x86&ch=101&sch=0
+http://iup.360safe.com/iv3/pc/360safe/isafeup_app.cab?mid=ab49b7dcf7f01169aa7dfd9f850737e5&ver=10.6.0.1038&lan=en&os=6.1-x86&ch=101&ue=1&auto=0
